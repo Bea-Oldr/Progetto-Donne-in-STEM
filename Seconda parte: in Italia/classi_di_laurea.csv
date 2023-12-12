@@ -1,0 +1,325 @@
+﻿_id,Classe,DESC_CLASSE,ISCED_F_1dgt,DESC_ISCED_F_1dgt,ISCED_F_2dgt,DESC_ISCED_F_2dgt,ISCED_F_3dgt,DESC_ISCED_F_3dgt,Area STEM
+1,-,Corsi del vecchio ordinamento,99,Field unknown,999,Field unknown,9999,Field unknown,No
+2,04,Scienze dell'architettura e dell'ingegneria edile,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+3,07,Urbanistica e scienze della pianificazione territoriale e ambientale,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+4,10,Ingegneria industriale,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+5,08,Ingegneria civile e ambientale,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+6,09,Ingegneria dell'informazione,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+7,41,Tecnologie per la conservazione e il restauro dei beni culturali,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+8,32,Scienze matematiche,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,541,Mathematics,Sì
+9,26,Scienze e tecnologie informatiche,6,Information and Communication Technologies (ICTs),61,Information and Communication Technologies (ICTs),610,Information and Communication Technologies (ICTs) not further defined,Sì
+10,25,Scienze e tecnologie fisiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,533,Physics,Sì
+11,21,Scienze e tecnologie chimiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+12,16,Scienze della Terra,5,"Natural sciences, mathematics and statistics",53,Physical sciences,532,Earth sciences,Sì
+13,12,Scienze biologiche,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,511,Biology,Sì
+14,27,Scienze e tecnologie per l'ambiente e la natura,5,"Natural sciences, mathematics and statistics",52,Environment,521,Environmental sciences,Sì
+15,34,Scienze e tecniche psicologiche,3,"Social sciences, journalism and information",31,Social and behavioural sciences,313,Psychology,No
+16,22,Scienze e tecnologie della navigazione marittima e aerea,5,"Natural sciences, mathematics and statistics",53,Physical sciences,539,Physical sciences not elsewhere classified,Sì
+17,40,Scienze e tecnologie zootecniche e delle produzioni animali,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,811,Crop and livestock production,No
+18,20,"Scienze e tecnologie agrarie, agroalimentari e forestali",8,"Agriculture, forestry, fisheries and veterinary",88,"Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary",888,"Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary",No
+19,13,Scienze dei beni culturali,2,Arts and humanities,21,Arts,213,Fine arts,No
+20,14,Scienze della comunicazione,3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+21,23,"Scienze e tecnologie delle arti figurative, della musica, dello spettacolo e della moda",2,Arts and humanities,21,Arts,219,Arts not elsewhere classified,No
+22,29,Filosofia,2,Arts and humanities,22,Humanities (except languages),223,Philosophy and ethics,No
+23,30,Scienze geografiche,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+24,05,Lettere,2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+25,11,Lingue e culture moderne,2,Arts and humanities,23,Languages,231,Language acquisition,No
+26,18,Scienze dell'educazione e della formazione,1,Education,11,Education,111,Education science,No
+27,39,Scienze del turismo,10,Services,101,Personal services,1015,"Travel, tourism and leisure",No
+28,38,Scienze storiche,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+29,31,Scienze giuridiche,4,"Business, administration and law",42,Law,421,Law,No
+30,02,Scienze dei servizi giuridici,4,"Business, administration and law",42,Law,421,Law,No
+31,28,Scienze economiche,3,"Social sciences, journalism and information",31,Social and behavioural sciences,311,Economics,No
+32,17,Scienze dell'economia e della gestione aziendale,4,"Business, administration and law",41,Business and administration,413,Management and administration,No
+33,37,Scienze statistiche,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+34,15,Scienze politiche e delle relazioni internazionali,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+35,19,Scienze dell'amministrazione,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+36,06,Scienze del servizio sociale,9,Health and welfare,92,Welfare,923,Social work and counselling,No
+37,36,Scienze sociologiche,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+38,24,Scienze e tecnologie farmaceutiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+39,03,Scienze della mediazione linguistica,2,Arts and humanities,23,Languages,231,Language acquisition,No
+40,01,Biotecnologie,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+41,33,Scienze delle attività motorie e sportive,10,Services,101,Personal services,1014,Sports,No
+42,35,"Scienze sociali per la cooperazione, lo sviluppo e la pace",3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+43,42,Disegno industriale,2,Arts and humanities,21,Arts,212,"Fashion, interior and industrial design",No
+44,01/S,Antropologia culturale ed etnologia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+45,02/S,Archeologia,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+46,03/S,Architettura del paesaggio,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+47,04/S,Architettura e ingegneria edile,7,"Engineering, manufacturing and construction",73,Architecture and construction,730,Architecture and construction not further defined,Sì
+48,05/S,Archivistica e biblioteconomia,3,"Social sciences, journalism and information",32,Journalism and information,322,"Library, information and archival studies",No
+49,06/S,Biologia,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,511,Biology,Sì
+50,07/S,Biotecnologie agrarie,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+51,08/S,Biotecnologie industriali,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+52,09/S,"Biotecnologie mediche, veterinarie e farmaceutiche",5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+53,10/S,Conservazione dei beni architettonici e ambientali,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+54,11/S,Conservazione dei beni scientifici e della civiltà industriale,2,Arts and humanities,28,Inter-disciplinary programmes and qualifications involving arts and humanities,288,Inter-disciplinary programmes and qualifications involving arts and humanities,No
+55,12/S,Conservazione e restauro del patrimonio storico-artistico,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+56,13/S,"Editoria, comunicazione multimediale e giornalismo",3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+57,14/S,Farmacia e farmacia industriale,9,Health and welfare,91,Health,916,Pharmacy,No
+58,15/S,Filologia e letterature dell'antichità,2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+59,16/S,Filologia moderna,2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+60,17/S,Filosofia e storia della scienza,2,Arts and humanities,22,Humanities (except languages),223,Philosophy and ethics,No
+61,18/S,"Filosofia teoretica, morale, politica ed estetica",2,Arts and humanities,22,Humanities (except languages),223,Philosophy and ethics,No
+62,19/S,Finanza,4,"Business, administration and law",41,Business and administration,412,"Finance, banking and insurance",No
+63,20/S,Fisica,5,"Natural sciences, mathematics and statistics",53,Physical sciences,533,Physics,Sì
+64,21/S,Geografia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+65,22/S,Giurisprudenza,4,"Business, administration and law",42,Law,421,Law,No
+66,23/S,Informatica,6,Information and Communication Technologies (ICTs),61,Information and Communication Technologies (ICTs),610,Information and Communication Technologies (ICTs) not further defined,Sì
+67,24/S,Informatica per le discipline umanistiche,3,"Social sciences, journalism and information",32,Journalism and information,322,"Library, information and archival studies",No
+68,25/S,Ingegneria aerospaziale e astronautica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,716,"Motor vehicles, ships and aircraft",Sì
+69,26/S,Ingegneria biomedica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+70,27/S,Ingegneria chimica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,711,Chemical engineering and processes,Sì
+71,28/S,Ingegneria civile,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+72,29/S,Ingegneria dell'automazione,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+73,30/S,Ingegneria delle telecomunicazioni,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+74,31/S,Ingegneria elettrica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,713,Electricity and energy,Sì
+75,32/S,Ingegneria elettronica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+76,33/S,Ingegneria energetica e nucleare,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,713,Electricity and energy,Sì
+77,34/S,Ingegneria gestionale,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+78,35/S,Ingegneria informatica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+79,36/S,Ingegneria meccanica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,715,Mechanics and metal trades,Sì
+80,37/S,Ingegneria navale,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,716,"Motor vehicles, ships and aircraft",Sì
+81,38/S,Ingegneria per l'ambiente e il territorio,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+82,39/S,Interpretariato di conferenza,2,Arts and humanities,23,Languages,231,Language acquisition,No
+83,40/S,Lingua e cultura italiana,2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+84,41/S,Lingue e letterature afroasiatiche,2,Arts and humanities,23,Languages,231,Language acquisition,No
+85,42/S,Lingue e letterature moderne euroamericane,2,Arts and humanities,23,Languages,231,Language acquisition,No
+86,43/S,Lingue straniere per la comunicazione internazionale,2,Arts and humanities,23,Languages,231,Language acquisition,No
+87,44/S,Linguistica,2,Arts and humanities,23,Languages,231,Language acquisition,No
+88,45/S,Matematica,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,541,Mathematics,Sì
+89,46/S,Medicina e chirurgia,9,Health and welfare,91,Health,912,Medicine,No
+90,47/S,Medicina veterinaria,8,"Agriculture, forestry, fisheries and veterinary",84,Veterinary,841,Veterinary,No
+91,48/S,Metodi per l'analisi valutativa dei sistemi complessi,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+92,49/S,Metodi per la ricerca empirica nelle scienze sociali,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+93,50/S,Modellistica matematico-fisica per l'ingegneria,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+94,51/S,Musicologia e beni musicali,2,Arts and humanities,21,Arts,215,Music and performing arts,No
+95,52/S,Odontoiatria e protesi dentaria,9,Health and welfare,91,Health,911,Dental studies,No
+96,53/S,Organizzazione e gestione dei servizi per lo sport e le attività motorie,10,Services,101,Personal services,1014,Sports,No
+97,54/S,Pianificazione territoriale urbanistica e ambientale,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+98,55/S,Progettazione e gestione dei sistemi turistici,10,Services,101,Personal services,1015,"Travel, tourism and leisure",No
+99,56/S,Programmazione e gestione dei servizi educativi e formativi,1,Education,11,Education,111,Education science,No
+100,57/S,Programmazione e gestione delle politiche e dei servizi sociali,9,Health and welfare,92,Welfare,923,Social work and counselling,No
+101,58/S,Psicologia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,313,Psychology,No
+102,59/S,Pubblicità e comunicazione d'impresa,4,"Business, administration and law",41,Business and administration,414,Marketing and advertising,No
+103,60/S,Relazioni internazionali,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+104,61/S,Scienza e ingegneria dei materiali,7,"Engineering, manufacturing and construction",72,Manufacturing and processing,722,"Materials (glass, paper, plastic and wood)",Sì
+105,62/S,Scienze chimiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+106,63/S,Scienze cognitive,3,"Social sciences, journalism and information",31,Social and behavioural sciences,313,Psychology,No
+107,64/S,Scienze dell'economia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,311,Economics,No
+108,65/S,Scienze dell'educazione degli adulti e della formazione continua,1,Education,11,Education,111,Education science,No
+109,66/S,Scienze dell'universo,5,"Natural sciences, mathematics and statistics",53,Physical sciences,533,Physics,Sì
+110,67/S,Scienze della comunicazione sociale e istituzionale,3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+111,68/S,Scienze della natura,5,"Natural sciences, mathematics and statistics",52,Environment,521,Environmental sciences,Sì
+112,69/S,Scienze della nutrizione umana,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,519,Biological and related sciences not elsewhere classified,Sì
+113,70/S,Scienze della politica,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+114,71/S,Scienze delle pubbliche amministrazioni,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+115,72/S,Scienze delle religioni,2,Arts and humanities,22,Humanities (except languages),221,Religion and theology,No
+116,73/S,Scienze dello spettacolo e della produzione multimediale,2,Arts and humanities,21,Arts,211,Audio-visual techniques and media production,No
+117,74/S,Scienze e gestione delle risorse rurali e forestali,8,"Agriculture, forestry, fisheries and veterinary",82,Forestry,821,Forestry,No
+118,75/S,Scienze e tecnica dello sport,10,Services,101,Personal services,1014,Sports,No
+119,76/S,Scienze e tecniche delle attività motorie preventive e adattative,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+120,77/S,Scienze e tecnologie agrarie,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,819,Agriculture not elsewhere classified,No
+121,78/S,Scienze e tecnologie agroalimentari,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,811,Crop and livestock production,No
+122,79/S,Scienze e tecnologie agrozootecniche,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,811,Crop and livestock production,No
+123,80/S,Scienze e tecnologie dei sistemi di navigazione,5,"Natural sciences, mathematics and statistics",53,Physical sciences,539,Physical sciences not elsewhere classified,Sì
+124,81/S,Scienze e tecnologie della chimica industriale,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+125,82/S,Scienze e tecnologie per l'ambiente e il territorio,5,"Natural sciences, mathematics and statistics",52,Environment,521,Environmental sciences,Sì
+126,83/S,Scienze economiche per l'ambiente e la cultura,4,"Business, administration and law",41,Business and administration,419,Business and administration not elsewhere classified,No
+127,84/S,Scienze economico-aziendali,4,"Business, administration and law",41,Business and administration,413,Management and administration,No
+128,85/S,Scienze geofisiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,532,Earth sciences,Sì
+129,86/S,Scienze geologiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,532,Earth sciences,Sì
+130,87/S,Scienze pedagogiche,1,Education,11,Education,111,Education science,No
+131,88/S,Scienze per la cooperazione allo sviluppo,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+132,89/S,Sociologia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+133,90/S,Statistica demografica e sociale,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+134,91/S,"Statistica economica, finanziaria ed attuariale",5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+135,92/S,Statistica per la ricerca sperimentale,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+136,93/S,Storia antica,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+137,94/S,Storia contemporanea,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+138,95/S,Storia dell'arte,2,Arts and humanities,21,Arts,213,Fine arts,No
+139,96/S,Storia della filosofia,2,Arts and humanities,22,Humanities (except languages),223,Philosophy and ethics,No
+140,97/S,Storia medievale,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+141,98/S,Storia moderna,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+142,99/S,Studi europei,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+143,100/S,Tecniche e metodi per la società dell'informazione,6,Information and Communication Technologies (ICTs),61,Information and Communication Technologies (ICTs),612,Database and network design and administration,Sì
+144,101/S,Teoria della comunicazione,3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+145,102/S,Teoria e tecniche della normazione e dell'informazione giuridica,4,"Business, administration and law",42,Law,421,Law,No
+146,103/S,Teorie e metodi del disegno industriale,2,Arts and humanities,21,Arts,212,"Fashion, interior and industrial design",No
+147,104/S,Traduzione letteraria e in traduzione tecnico-scientifica,2,Arts and humanities,23,Languages,231,Language acquisition,No
+148,SNT1,"Professioni sanitarie, infermieristiche e professione sanitaria ostetrica",9,Health and welfare,91,Health,913,Nursing and midwifery,No
+149,SNT2,Professioni sanitarie della riabilitazione,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+150,SNT3,Professioni sanitarie tecniche,9,Health and welfare,91,Health,914,Medical diagnostic and treatment technology,No
+151,SNT4,Professioni sanitarie della prevenzione,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+152,DS1,Scienze della difesa e della sicurezza,3,"Social sciences, journalism and information",31,Social and behavioural sciences,319,Social and behavioural sciences not elsewhere classified,No
+153,DS1/S,Scienze della difesa e della sicurezza,3,"Social sciences, journalism and information",31,Social and behavioural sciences,319,Social and behavioural sciences not elsewhere classified,No
+154,SNT1/S,Classe delle lauree specialistiche nelle scienze infermieristiche e ostetriche,9,Health and welfare,91,Health,913,Nursing and midwifery,No
+155,SNT2/S,Classe delle lauree specialistiche nelle scienze delle professioni sanitarie della riabilitazione,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+156,SNT3/S,Classe delle lauree specialistiche nelle scienze delle professioni sanitarie tecniche,9,Health and welfare,91,Health,914,Medical diagnostic and treatment technology,No
+157,SNT4/S,Classe delle lauree specialistiche nelle scienze delle professioni sanitarie della prevenzione,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+158,L-01,Beni culturali,2,Arts and humanities,21,Arts,213,Fine arts,No
+159,L-02,Biotecnologie,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+160,L-03,"Discipline delle arti figurative, della musica, dello spettacolo e della moda",2,Arts and humanities,21,Arts,219,Arts not elsewhere classified,No
+161,L-04,Disegno industriale,2,Arts and humanities,21,Arts,212,"Fashion, interior and industrial design",No
+162,L-05,Filosofia,2,Arts and humanities,22,Humanities (except languages),223,Philosophy and ethics,No
+163,L-06,Geografia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+164,L-07,Ingegneria civile e ambientale,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+165,L-08,Ingegneria dell'informazione,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+166,L-09,Ingegneria industriale,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+167,L-10,Lettere,2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+168,L-11,Lingue e culture moderne,2,Arts and humanities,23,Languages,231,Language acquisition,No
+169,L-12,Mediazione linguistica,2,Arts and humanities,23,Languages,231,Language acquisition,No
+170,L-13,Scienze biologiche,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,511,Biology,Sì
+171,L-14,Scienze dei servizi giuridici,4,"Business, administration and law",42,Law,421,Law,No
+172,L-15,Scienze del turismo,10,Services,101,Personal services,1015,"Travel, tourism and leisure",No
+173,L-16,Scienze dell'amministrazione e dell'organizzazione,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+174,L-17,Scienze dell'architettura,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+175,L-18,Scienze dell'economia e della gestione aziendale,4,"Business, administration and law",41,Business and administration,413,Management and administration,No
+176,L-19,Scienze dell'educazione e della formazione,1,Education,11,Education,111,Education science,No
+177,L-20,Scienze della comunicazione,3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+178,L-21,"Scienze della pianificazione territoriale, urbanistica, paesaggistica e ambientale",7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+179,L-22,Scienze delle attività motorie e sportive,10,Services,101,Personal services,1014,Sports,No
+180,L-23,Scienze e tecniche dell'edilizia,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+181,L-24,Scienze e tecniche psicologiche,3,"Social sciences, journalism and information",31,Social and behavioural sciences,313,Psychology,No
+182,L-25,Scienze e tecnologie agrarie e forestali,8,"Agriculture, forestry, fisheries and veterinary",88,"Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary",888,"Inter-disciplinary programmes and qualifications involving agriculture, forestry, fisheries and veterinary",No
+183,L-26,Scienze e tecnologie alimentari,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,811,Crop and livestock production,No
+184,L-27,Scienze e tecnologie chimiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+185,L-28,Scienze e tecnologie della navigazione,5,"Natural sciences, mathematics and statistics",53,Physical sciences,539,Physical sciences not elsewhere classified,Sì
+186,L-29,Scienze e tecnologie farmaceutiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+187,L-30,Scienze e tecnologie fisiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,533,Physics,Sì
+188,L-31,Scienze e tecnologie informatiche,6,Information and Communication Technologies (ICTs),61,Information and Communication Technologies (ICTs),610,Information and Communication Technologies (ICTs) not further defined,Sì
+189,L-32,Scienze e tecnologie per l'ambiente e la natura,5,"Natural sciences, mathematics and statistics",52,Environment,521,Environmental sciences,Sì
+190,L-33,Scienze economiche,3,"Social sciences, journalism and information",31,Social and behavioural sciences,311,Economics,No
+191,L-34,Scienze geologiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,532,Earth sciences,Sì
+192,L-35,Scienze matematiche,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,541,Mathematics,Sì
+193,L-36,Scienze politiche e delle relazioni internazionali,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+194,L-37,"Scienze sociali per la cooperazione, lo sviluppo e la pace",3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+195,L-38,Scienze zootecniche e tecnologie delle produzioni animali,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,811,Crop and livestock production,No
+196,L-39,Servizio sociale,9,Health and welfare,92,Welfare,923,Social work and counselling,No
+197,L-40,Sociologia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+198,L-41,Statistica,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+199,L-42,Storia,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+200,L-43,Diagnostica per la conservazione dei beni culturali,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+201,L/SNT1,"Professioni sanitarie, infermieristiche e professione sanitaria ostetrica",9,Health and welfare,91,Health,913,Nursing and midwifery,No
+202,L/SNT2,Professioni sanitarie della riabilitazione,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+203,L/SNT3,Professioni sanitarie tecniche,9,Health and welfare,91,Health,914,Medical diagnostic and treatment technology,No
+204,L/SNT4,Professioni sanitarie della prevenzione,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+205,L/SC,Scienze criminologiche e della sicurezza,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+206,L/DS,Scienze della difesa e della sicurezza,3,"Social sciences, journalism and information",31,Social and behavioural sciences,319,Social and behavioural sciences not elsewhere classified,No
+207,LMG/01,Classe delle lauree magistrali in giurisprudenza,4,"Business, administration and law",42,Law,421,Law,No
+208,LM-01,Antropologia culturale ed etnologia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+209,LM-02,Archeologia,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+210,LM-03,Architettura del paesaggio,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+211,LM-04,Architettura e ingegneria edile-architettura,7,"Engineering, manufacturing and construction",73,Architecture and construction,730,Architecture and construction not further defined,Sì
+212,LM-05,Archivistica e biblioteconomia,3,"Social sciences, journalism and information",32,Journalism and information,322,"Library, information and archival studies",No
+213,LM-06,Biologia,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,511,Biology,Sì
+214,LM-07,Biotecnologie agrarie,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+215,LM-08,Biotecnologie industriali,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+216,LM-09,"Biotecnologie mediche, veterinarie e farmaceutiche",5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,512,Biochemistry,Sì
+217,LM-10,Conservazione dei beni architettonici e ambientali,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+218,LM-11,Scienze per la conservazione dei beni culturali,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+219,LM-12,Design,2,Arts and humanities,21,Arts,212,"Fashion, interior and industrial design",No
+220,LM-13,Farmacia e farmacia industriale,9,Health and welfare,91,Health,916,Pharmacy,No
+221,LM-14,Filologia moderna,2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+222,LM-15,"Filologia, letterature e storia dell'antichità",2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+223,LM-16,Finanza,4,"Business, administration and law",41,Business and administration,412,"Finance, banking and insurance",No
+224,LM-17,Fisica,5,"Natural sciences, mathematics and statistics",53,Physical sciences,533,Physics,Sì
+225,LM-18,Informatica,6,Information and Communication Technologies (ICTs),61,Information and Communication Technologies (ICTs),610,Information and Communication Technologies (ICTs) not further defined,Sì
+226,LM-19,Informazione e sistemi editoriali,3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+227,LM-20,Ingegneria aerospaziale e astronautica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,716,"Motor vehicles, ships and aircraft",Sì
+228,LM-21,Ingegneria biomedica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+229,LM-22,Ingegneria chimica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,711,Chemical engineering and processes,Sì
+230,LM-23,Ingegneria civile,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+231,LM-24,Ingegneria dei sistemi edilizi,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+232,LM-25,Ingegneria dell'automazione,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+233,LM-26,Ingegneria della sicurezza,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+234,LM-27,Ingegneria delle telecomunicazioni,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+235,LM-28,Ingegneria elettrica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,713,Electricity and energy,Sì
+236,LM-29,Ingegneria elettronica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+237,LM-30,Ingegneria energetica e nucleare,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,713,Electricity and energy,Sì
+238,LM-31,Ingegneria gestionale,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+239,LM-32,Ingegneria informatica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,714,Electronics and automation,Sì
+240,LM-33,Ingegneria meccanica,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,715,Mechanics and metal trades,Sì
+241,LM-34,Ingegneria navale,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,716,"Motor vehicles, ships and aircraft",Sì
+242,LM-35,Ingegneria per l'ambiente e il territorio,7,"Engineering, manufacturing and construction",73,Architecture and construction,732,Building and civil engineering,Sì
+243,LM-36,Lingue e letterature dell'Africa e dell'Asia,2,Arts and humanities,23,Languages,231,Language acquisition,No
+244,LM-37,Lingue e letterature moderne europee e americane,2,Arts and humanities,23,Languages,231,Language acquisition,No
+245,LM-38,Lingue moderne per la comunicazione e la cooperazione internazionale,2,Arts and humanities,23,Languages,231,Language acquisition,No
+246,LM-39,Linguistica,2,Arts and humanities,23,Languages,231,Language acquisition,No
+247,LM-40,Matematica,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,541,Mathematics,Sì
+248,LM-41,Medicina e chirurgia,9,Health and welfare,91,Health,912,Medicine,No
+249,LM-42,Medicina veterinaria,8,"Agriculture, forestry, fisheries and veterinary",84,Veterinary,841,Veterinary,No
+250,LM-43,Metodologie informatiche per le discipline umanistiche,3,"Social sciences, journalism and information",32,Journalism and information,322,"Library, information and archival studies",No
+251,LM-44,Modellistica matematico-fisica per l'ingegneria,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,719,Engineering and engineering trades not elsewhere classified,Sì
+252,LM-45,Musicologia e beni musicali,2,Arts and humanities,21,Arts,215,Music and performing arts,No
+253,LM-46,Odontoiatria e protesi dentaria,9,Health and welfare,91,Health,911,Dental studies,No
+254,LM-47,Organizzazione e gestione dei servizi per lo sport e le attività motorie,10,Services,101,Personal services,1014,Sports,No
+255,LM-48,Pianificazione territoriale urbanistica e ambientale,7,"Engineering, manufacturing and construction",73,Architecture and construction,731,Architecture and town planning,Sì
+256,LM-49,Progettazione e gestione dei sistemi turistici,10,Services,101,Personal services,1015,"Travel, tourism and leisure",No
+257,LM-50,Programmazione e gestione dei servizi educativi,1,Education,11,Education,111,Education science,No
+258,LM-51,Psicologia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,313,Psychology,No
+259,LM-52,Relazioni internazionali,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+260,LM-53,Scienza e ingegneria dei materiali,7,"Engineering, manufacturing and construction",72,Manufacturing and processing,722,"Materials (glass, paper, plastic and wood)",Sì
+261,LM-54,Scienze chimiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+262,LM-55,Scienze cognitive,3,"Social sciences, journalism and information",31,Social and behavioural sciences,313,Psychology,No
+263,LM-56,Scienze dell'economia,3,"Social sciences, journalism and information",31,Social and behavioural sciences,311,Economics,No
+264,LM-57,Scienze dell'educazione degli adulti e della formazione continua,1,Education,11,Education,111,Education science,No
+265,LM-58,Scienze dell'universo,5,"Natural sciences, mathematics and statistics",53,Physical sciences,533,Physics,Sì
+266,LM-59,"Scienze della comunicazione pubblica, d'impresa e pubblicità",3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+267,LM-60,Scienze della natura,5,"Natural sciences, mathematics and statistics",52,Environment,521,Environmental sciences,Sì
+268,LM-61,Scienze della nutrizione umana,5,"Natural sciences, mathematics and statistics",51,Biological and related sciences,519,Biological and related sciences not elsewhere classified,Sì
+269,LM-62,Scienze della politica,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+270,LM-63,Scienze delle pubbliche amministrazioni,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+271,LM-64,Scienze delle religioni,2,Arts and humanities,22,Humanities (except languages),221,Religion and theology,No
+272,LM-65,Scienze dello spettacolo e produzione multimediale,2,Arts and humanities,21,Arts,211,Audio-visual techniques and media production,No
+273,LM-66,Sicurezza informatica,6,Information and Communication Technologies (ICTs),61,Information and Communication Technologies (ICTs),612,Database and network design and administration,Sì
+274,LM-67,Scienze e tecniche delle attività motorie preventive e adattate,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+275,LM-68,Scienze e tecniche dello sport,10,Services,101,Personal services,1014,Sports,No
+276,LM-69,Scienze e tecnologie agrarie,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,819,Agriculture not elsewhere classified,No
+277,LM-70,Scienze e tecnologie alimentari,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,811,Crop and livestock production,No
+278,LM-71,Scienze e tecnologie della chimica industriale,5,"Natural sciences, mathematics and statistics",53,Physical sciences,531,Chemistry,Sì
+279,LM-72,Scienze e tecnologie della navigazione,5,"Natural sciences, mathematics and statistics",53,Physical sciences,539,Physical sciences not elsewhere classified,Sì
+280,LM-73,Scienze e tecnologie forestali ed ambientali,8,"Agriculture, forestry, fisheries and veterinary",82,Forestry,821,Forestry,No
+281,LM-74,Scienze e tecnologie geologiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,532,Earth sciences,Sì
+282,LM-75,Scienze e tecnologie per l'ambiente e il territorio,5,"Natural sciences, mathematics and statistics",52,Environment,521,Environmental sciences,Sì
+283,LM-76,Scienze economiche per l'ambiente e la cultura,4,"Business, administration and law",41,Business and administration,419,Business and administration not elsewhere classified,No
+284,LM-77,Scienze economico-aziendali,4,"Business, administration and law",41,Business and administration,413,Management and administration,No
+285,LM-78,Scienze filosofiche,2,Arts and humanities,22,Humanities (except languages),223,Philosophy and ethics,No
+286,LM-79,Scienze geofisiche,5,"Natural sciences, mathematics and statistics",53,Physical sciences,532,Earth sciences,Sì
+287,LM-80,Scienze geografiche,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+288,LM-81,Scienze per la cooperazione allo sviluppo,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+289,LM-82,Scienze statistiche,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+290,LM-83,Scienze statistiche attuariali e finanziarie,5,"Natural sciences, mathematics and statistics",54,Mathematics and statistics,542,Statistics,Sì
+291,LM-84,Scienze storiche,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+292,LM-85,Scienze pedagogiche,1,Education,11,Education,111,Education science,No
+293,LM-86,Scienze zootecniche e tecnologie animali,8,"Agriculture, forestry, fisheries and veterinary",81,Agriculture,811,Crop and livestock production,No
+294,LM-87,Servizio sociale e politiche sociali,9,Health and welfare,92,Welfare,923,Social work and counselling,No
+295,LM-88,Sociologia e ricerca sociale,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+296,LM-89,Storia dell'arte,2,Arts and humanities,21,Arts,213,Fine arts,No
+297,LM-90,Studi europei,3,"Social sciences, journalism and information",31,Social and behavioural sciences,312,Political sciences and civics,No
+298,LM-91,Tecniche e metodi per la societa dell'informazione,6,Information and Communication Technologies (ICTs),61,Information and Communication Technologies (ICTs),612,Database and network design and administration,Sì
+299,LM-92,Teorie della comunicazione,3,"Social sciences, journalism and information",32,Journalism and information,321,Journalism and reporting,No
+300,LM-93,Teorie e metodologie dell'e-learning e della media education,1,Education,11,Education,111,Education science,No
+301,LM-94,Traduzione specialistica e interpretariato,2,Arts and humanities,23,Languages,231,Language acquisition,No
+302,LM/SNT1,Scienze infermieristiche e ostetriche,9,Health and welfare,91,Health,913,Nursing and midwifery,No
+303,LM/SNT2,Scienze riabilitative delle professioni sanitarie,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+304,LM/SNT3,Scienze delle professioni sanitarie tecniche,9,Health and welfare,91,Health,914,Medical diagnostic and treatment technology,No
+305,LM/SNT4,Scienze delle professioni sanitarie della prevenzione,9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+306,LM/SC,Scienze criminologiche applicate all'investigazione e alla sicurezza,3,"Social sciences, journalism and information",31,Social and behavioural sciences,314,Sociology and cultural studies,No
+307,LM/DS,Scienze della difesa e della sicurezza,3,"Social sciences, journalism and information",31,Social and behavioural sciences,319,Social and behavioural sciences not elsewhere classified,No
+308,LM-04cu,Architettura e ingegneria edile-architettura (quinquennale),7,"Engineering, manufacturing and construction",73,Architecture and construction,730,Architecture and construction not further defined,Sì
+309,LM-85 bis,Scienze della formazione primaria,1,Education,11,Education,111,Education science,No
+310,LMR/02,Conservazione e restauro dei beni culturali,2,Arts and humanities,22,Humanities (except languages),222,History and archaeology,No
+311,L/GASTR,"Scienze, culture e politiche della gastronomia",4,"Business, administration and law",41,Business and administration,419,Business and administration not elsewhere classified,No
+312,LM/GASTR,Scienze economiche e sociali della gastronomia,4,"Business, administration and law",41,Business and administration,419,Business and administration not elsewhere classified,No
+313,LM/SC-GIUR,Scienze Giuridiche,4,"Business, administration and law",42,Law,421,Law,No
+314,LM-37.,Lingue e letterature moderne europee e americane (abilitazione A045),2,Arts and humanities,23,Languages,231,Language acquisition,No
+315,LM-14.,Filologia moderna (abilitazione A043),2,Arts and humanities,23,Languages,232,Literature and linguistics,No
+316,LM-67.,Scienze e tecniche delle attività motorie preventive e adattate (abilitazione A030),9,Health and welfare,91,Health,915,Therapy and rehabilitation,No
+317,LM-45.,Musicologia e beni musicali (abilitazione A032),2,Arts and humanities,21,Arts,215,Music and performing arts,No
+318,LM-68.,Scienze e tecniche dello sport (abilitazione A030),10,Services,101,Personal services,1014,Sports,No
+319,LM-85 bis.,Scienze della formazione primaria - BZ,1,Education,11,Education,111,Education science,No
+320,"LM-85 bis,",Scienze della formazione primaria - AO,1,Education,11,Education,111,Education science,No
+321,LM-85 bis:,Scienze della formazione primaria - UD,1,Education,11,Education,111,Education science,No
+322,LM-85bis..,Scienze della formazione primaria - BZ,1,Education,11,Education,111,Education science,No
+323,LM-95,Classe di abilitazione A059 - Matematica e scienze nella scuola secondaria di I grado,5,"Natural sciences, mathematics and statistics",58,"Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics",588,"Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics",Sì
+324,LM-96,Classe di abilitazione A033 - Tecnologia,7,"Engineering, manufacturing and construction",71,Engineering and engineering trades,710,Engineering and engineering trades not further defined,Sì
