@@ -13,3 +13,5 @@ Altri dataset sono stati creati da dei programmi che abbiamo creato
 - regioni
 
 # Programmi
+Alcuni sono serviti per creare i grafici che si trovano nella presentazione:
+- corsi_piu_freq.py ----> slide 
