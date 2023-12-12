@@ -25,4 +25,4 @@ Altri programmi creano alcuni dataset
 
 Dei grafici non è stato possibile crearli in python quindi abbiamo dovuto usare dei siti
 - Slide 13: nelle librerie di python per creare le mappe cloroplete non esisteva la cartina dell'Italia suddivisa per regioni quindi l'abbiamo creata utilizzando il sito: https://app.everviz.com/create?editor=wiz&panel=map_type&type=choropleth&maps, aggiungendoci la mappa: italy-with-regions_1458.geojson e il dataset regioni.csv
-- Slide 14: dopo aver creato il file data_per_treemap.csv abbiamo usato il sito https://flourish.studio/
+- Slide 14: dopo aver creato il file data_per_treemap.csv abbiamo usato il sito https://flourish.studio/ per creare le 2 treemap
