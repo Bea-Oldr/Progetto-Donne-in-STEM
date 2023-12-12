@@ -1,0 +1,124 @@
+num;STEM;codice;descrizione
+1;E;04;Scienze dell'architettura e dell'ingegneria edile
+2;E;07;Urbanistica e scienze della pianificazione territoriale e ambientale
+3;E;10;Ingegneria industriale
+4;E;08;Ingegneria civile e ambientale
+5;E;09;Ingegneria dell'informazione
+18;E;03/S;Architettura del paesaggio
+19;E;04/S;Architettura e ingegneria edile
+24;E;10/S;Conservazione dei beni architettonici e ambientali
+28;E;25/S;Ingegneria aerospaziale e astronautica
+29;E;26/S;Ingegneria biomedica
+30;E;27/S;Ingegneria chimica
+31;E;28/S;Ingegneria civile
+32;E;29/S;Ingegneria dell'automazione
+33;E;30/S;Ingegneria delle telecomunicazioni
+34;E;31/S;Ingegneria elettrica
+35;E;32/S;Ingegneria elettronica
+36;E;33/S;Ingegneria energetica e nucleare
+37;E;34/S;Ingegneria gestionale
+38;E;35/S;Ingegneria informatica
+39;E;36/S;Ingegneria meccanica
+40;E;37/S;Ingegneria navale
+41;E;38/S;Ingegneria per l'ambiente e il territorio
+45;E;54/S;Pianificazione territoriale urbanistica e ambientale
+46;E;61/S;Scienza e ingegneria dei materiali
+61;E;L-07;Ingegneria civile e ambientale
+62;E;L-08;Ingegneria dell'informazione
+63;E;L-09;Ingegneria industriale
+65;E;L-17;Scienze dell'architettura
+66;E;L-21;Scienze della pianificazione territoriale, urbanistica, paesaggistica e ambientale
+67;E;L-23;Scienze e tecniche dell'edilizia
+78;E;LM-03;Architettura del paesaggio
+79;E;LM-04;Architettura e ingegneria edile-architettura
+84;E;LM-10;Conservazione dei beni architettonici e ambientali
+88;E;LM-20;Ingegneria aerospaziale e astronautica
+89;E;LM-21;Ingegneria biomedica
+90;E;LM-22;Ingegneria chimica
+91;E;LM-23;Ingegneria civile
+92;E;LM-24;Ingegneria dei sistemi edilizi
+93;E;LM-25;Ingegneria dell'automazione
+94;E;LM-26;Ingegneria della sicurezza
+95;E;LM-27;Ingegneria delle telecomunicazioni
+96;E;LM-28;Ingegneria elettrica
+97;E;LM-29;Ingegneria elettronica
+98;E;LM-30;Ingegneria energetica e nucleare
+99;E;LM-31;Ingegneria gestionale
+100;E;LM-32;Ingegneria informatica
+101;E;LM-33;Ingegneria meccanica
+102;E;LM-34;Ingegneria navale
+103;E;LM-35;Ingegneria per l'ambiente e il territorio
+106;E;LM-48;Pianificazione territoriale urbanistica e ambientale
+107;E;LM-53;Scienza e ingegneria dei materiali
+121;E;LM-04cu;Architettura e ingegneria edile-architettura (quinquennale)
+123;E;LM-96;Classe di abilitazione A033 - Tecnologia
+44;E;50/S;Modellistica matematico-fisica per l'ingegneria
+105;E;LM-44;Modellistica matematico-fisica per l'ingegneria
+7;M;32;Scienze matematiche
+15;M;37;Scienze statistiche
+42;M;45/S;Matematica
+43;M;48/S;Metodi per l'analisi valutativa dei sistemi complessi
+56;M;90/S;Statistica demografica e sociale
+57;M;91/S;Statistica economica, finanziaria ed attuariale
+58;M;92/S;Statistica per la ricerca sperimentale
+75;M;L-35;Scienze matematiche
+76;M;L-41;Statistica
+104;M;LM-40;Matematica
+118;M;LM-82;Scienze statistiche
+119;M;LM-83;Scienze statistiche attuariali e finanziarie
+122;S;LM-95;Classe di abilitazione A059 - Matematica e scienze nella scuola secondaria di I grado
+11;S;16;Scienze della Terra
+12;S;12;Scienze biologiche
+20;S;06/S;Biologia
+25;S;12/S;Conservazione e restauro del patrimonio storico-artistico
+26;S;20/S;Fisica
+47;S;62/S;Scienze chimiche
+48;S;66/S;Scienze dell'universo
+49;S;68/S;Scienze della natura
+50;S;69/S;Scienze della nutrizione umana
+54;S;85/S;Scienze geofisiche
+55;S;86/S;Scienze geologiche
+64;S;L-13;Scienze biologiche
+74;S;L-34;Scienze geologiche
+77;S;L-43;Diagnostica per la conservazione dei beni culturali
+80;S;LM-06;Biologia
+85;S;LM-11;Scienze per la conservazione dei beni culturali
+86;S;LM-17;Fisica
+108;S;LM-54;Scienze chimiche
+109;S;LM-58;Scienze dell'universo
+110;S;LM-60;Scienze della natura
+111;S;LM-61;Scienze della nutrizione umana
+116;S;LM-75;Scienze e tecnologie per l'ambiente e il territorio
+117;S;LM-79;Scienze geofisiche
+6;T;41;Tecnologie per la conservazione e il restauro dei beni culturali
+8;T;26;Scienze e tecnologie informatiche
+9;T;25;Scienze e tecnologie fisiche
+10;T;21;Scienze e tecnologie chimiche
+13;T;27;Scienze e tecnologie per l'ambiente e la natura
+14;T;22;Scienze e tecnologie della navigazione marittima e aerea
+16;T;24;Scienze e tecnologie farmaceutiche
+17;T;01;Biotecnologie
+21;T;07/S;Biotecnologie agrarie
+22;T;08/S;Biotecnologie industriali
+23;T;09/S;Biotecnologie mediche, veterinarie e farmaceutiche
+27;T;23/S;Informatica
+51;T;80/S;Scienze e tecnologie dei sistemi di navigazione
+52;T;81/S;Scienze e tecnologie della chimica industriale
+53;T;82/S;Scienze e tecnologie per l'ambiente e il territorio
+59;T;100/S;Tecniche e metodi per la società dell'informazione
+60;T;L-02;Biotecnologie
+68;T;L-27;Scienze e tecnologie chimiche
+69;T;L-28;Scienze e tecnologie della navigazione
+70;T;L-29;Scienze e tecnologie farmaceutiche
+71;T;L-30;Scienze e tecnologie fisiche
+72;T;L-31;Scienze e tecnologie informatiche
+73;T;L-32;Scienze e tecnologie per l'ambiente e la natura
+81;T;LM-07;Biotecnologie agrarie
+82;T;LM-08;Biotecnologie industriali
+83;T;LM-09;Biotecnologie mediche, veterinarie e farmaceutiche
+87;T;LM-18;Informatica
+112;T;LM-66;Sicurezza informatica
+113;T;LM-71;Scienze e tecnologie della chimica industriale
+114;T;LM-72;Scienze e tecnologie della navigazione
+115;T;LM-74;Scienze e tecnologie geologiche
+120;T;LM-91;Tecniche e metodi per la societa dell'informazione
